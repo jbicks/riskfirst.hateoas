@@ -3,27 +3,28 @@
     <PropertyGroup>
         <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
         <AssemblyName>RiskFirst.Hateoas.Models</AssemblyName>
-        <PackageId>RiskFirst.Hateoas.Models</PackageId>
+        <PackageId>jbicks.Hateoas.Models</PackageId>
         <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
         <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
         <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
         <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
-        <PackageProjectUrl>https://github.com/riskfirst/riskfirst.hateoas</PackageProjectUrl>
-        <Authors>RiskFirst</Authors>
-        <PackageLicenseUrl>https://github.com/riskfirst/riskfirst.hateoas/blob/master/LICENSE</PackageLicenseUrl>
-        <Description>Model classes for RiskFirst.Hateoas</Description>
-        <RepositoryUrl>https://github.com/riskfirst/riskfirst.hateoas</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/jbicks/riskfirst.hateoas</PackageProjectUrl>
+        <Authors>jbicks</Authors>
+        <PackageLicenseUrl>https://github.com/jbicks/riskfirst.hateoas/blob/master/LICENSE</PackageLicenseUrl>
+        <Description>This is forked from riskfirst/riskfirst.hateoas.models and will hopefully be decommissioned when and if our PR is merged into the main repo. Model classes for RiskFirst.Hateoas</Description>
+        <RepositoryUrl>https://github.com/jbicks/riskfirst.hateoas</RepositoryUrl>
         <RepositoryType>GIT</RepositoryType>
         <PackageTags>HATEOAS aspnet dotnetcore</PackageTags>
         <PackageReleaseNotes>
             v3.0.0 - extract models to separate assembly
         
             v3.1.0 - version bump to match main assembly    
-            v3.1.1 - version bump to match main assembly</PackageReleaseNotes>
-        <Version>3.1.1</Version>
-        <PackageIconUrl>https://raw.githubusercontent.com/riskfirst/pkgicons/master/riskfirst-pkg.png</PackageIconUrl>
-        <AssemblyVersion>3.1.1.0</AssemblyVersion>
-        <FileVersion>3.1.1.0</FileVersion>
+            v3.1.1 - version bump to match main assembly
+            v3.1.2 - version bump to match main assembly</PackageReleaseNotes>
+        <Version>3.1.2</Version>
+        <PackageIconUrl></PackageIconUrl>
+        <AssemblyVersion>3.1.2.0</AssemblyVersion>
+        <FileVersion>3.1.2.0</FileVersion>
     </PropertyGroup>
 
     <ItemGroup>

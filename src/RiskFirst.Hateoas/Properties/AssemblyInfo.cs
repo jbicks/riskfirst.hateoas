@@ -6,8 +6,8 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("RiskFirst")]
-[assembly: AssemblyProduct("RiskFirst.Hateos")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("jbicks.Hateos")]
 [assembly: AssemblyTrademark("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
