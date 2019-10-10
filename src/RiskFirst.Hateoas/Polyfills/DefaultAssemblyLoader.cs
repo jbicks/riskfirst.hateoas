@@ -14,7 +14,7 @@ namespace RiskFirst.Hateoas.Polyfills
     {
         public IEnumerable<Assembly> GetAssemblies()
         {
-            var thisAssembly = GetType().GetTypeInfo().Assembly.GetName().Name;
+            var thisAssembly = "jbicks.Hateoas";
             var libraries =
                 DependencyContext.Default
                     .CompileLibraries
